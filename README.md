@@ -83,3 +83,111 @@ Here's how the models performed in terms of accuracy:
 
 
 These results are promising, but there's more work to be done!
+
+
+
+📊 Just completed an insightful data analysis journey as part of my virtual internship with MeriSKILL on an HR Employee Attrition Dataset as Project No. 3!
+
+
+
+Here's a snapshot of what I discovered:
+
+
+
+🔍 Explored the data to understand its size, missing values, and data types.
+
+
+
+🚀 Unveiled key insights into employee attrition:
+
+  - Discovered the overall attrition rate is 16% in the company.
+
+  - Analyzed how gender and marital status impact attrition.
+
+  - Explored age as a factor in attrition.
+
+  - Identified high attrition areas by job roles and departments.
+
+
+
+👤 Dived into employee demographics:
+
+  - Examined the age distribution.
+
+  - Uncovered the educational background of employees.
+
+  - Explored gender diversity in the workforce.
+
+
+
+😃 Investigated job satisfaction:
+
+  - Explored its connection with attrition.
+
+  - Analyzed job satisfaction variances across job roles.
+
+  - Explored the impact of job involvement on job satisfaction.
+
+
+
+💰 Delved into salary and compensation:
+
+  - Examined income distribution.
+
+  - Investigated income variations by job level and department.
+
+  - Analyzed the influence of overtime on monthly income.
+
+
+
+🕰️ Explored employee tenure:
+
+  - Calculated the average years at the company.
+
+  - Examined whether longer tenures correlate with lower attrition.
+
+  - Analyzed the relationship between years in the current role and attrition.
+
+
+
+🌟 Examined work-life balance and environment satisfaction:
+
+  - Explored their connection with attrition.
+
+  - Analyzed how commute distance affects attrition.
+
+
+
+📚 Explored training and development:
+
+  - Investigated the impact of training on attrition.
+
+  - Explored past employment history's influence on attrition.
+
+
+
+🚀 Examined promotions and career growth:
+
+  - Analyzed the effect of years since the last promotion.
+
+  - Explored the role of stock options in attrition.
+
+
+
+📊 Explored performance and salary hikes:
+
+  - Investigated how performance ratings relate to attrition.
+
+  - Analyzed whether higher salary hikes impact attrition.
+
+
+
+🤝 Explored managerial relationships:
+
+  - Investigated the influence of years with the current manager.
+
+  - Analyzed the connection between relationship satisfaction and attrition.
+
+
+
+Additionally, performed hypothesis testing and causal inference for specific questions related to the attrition.
