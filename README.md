@@ -1,6 +1,11 @@
 # MeriSKILL-by-ASAD
 MeriSKILL Internship Projects
 
+📈 Project Update: Sales Data Analysis by MeriSKILL! 🚀
+
+From monthly sales trends to best-sellers and regional variations, this project has been a deep dive into data analytics. 📊
+
+
 📊 MeriSKILL Data Analysis Project 2 - Diabetes Data 📊
 
 I'm delighted to share the insights from my recent analysis on a healthcare dataset focused on diagnosing diabetes. Here's a breakdown of what I've been up to:
